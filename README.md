@@ -2,6 +2,7 @@
 
 - Çarpım Tablosu
 - Piyango
+- Yazılımıcı Özlü Sözler Random
 
 Temel Notlar
 ```
