@@ -4,7 +4,7 @@
 - Piyango
 
 Temel Notlar
-`
+```
 ———————— 1.Konu ———————
 Bir Değişken İçerisinde (+ - * / % . ,) 
 Matematiksel İşaretler Kullanılamaz
@@ -261,4 +261,4 @@ do{
       echo "$sayi Bulundu Kazandınız";
    }
 }
-`
+```
